@@ -356,9 +356,9 @@ Wi.~!X$?!-~    : ?$$$B$Wu("**$RM!
 $R@i.~~ !     :   ~$$$$$B$$en:``
 ?MXT@Wx.~    :     ~"##*$$$$M~
 
-                    {r}@{x}  Cloud 2023                  {r}@{x}
-                    {r}@{x}  github.com/cloudzik1337     {r}@{x}
-                    {r}@{x}  discord.cloudzik.me         {r}@{x}
+                    {r}@{x}  Cloud 2025                  {r}@{x}
+                    {r}@{x}  github.com/Cloud-Hub-ui     {r}@{x}
+                    {r}@{x}  discord.rxyal.me            {r}@{x}
                     {r}@{x}  Version: {VERSION}              {r}@{x}
         """
 clear()
